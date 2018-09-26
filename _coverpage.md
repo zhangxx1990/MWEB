@@ -1,6 +1,6 @@
-<img src="./media/web.png" width="520" alt="">
+<img src="./media/web.png" width="720" alt="">
 
-## MWeb笔记
+## MWEB笔记
 
 > 张修新 <span style="font-size: 16px;"></span>
 
