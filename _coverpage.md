@@ -1,6 +1,6 @@
 <img src="./media/web.png" width="520" alt="">
 
-## Ajax笔记
+## MWeb笔记
 
 > 张修新 <span style="font-size: 16px;"></span>
 
