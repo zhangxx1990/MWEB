@@ -1,0 +1,5 @@
+url: https://github.com/zhangxx1990/MWEB.git
+root: /
+include: [_coverpage.md, _sidebar.md]
+
+theme: jekyll-theme-cayman
